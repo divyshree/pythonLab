@@ -10,3 +10,8 @@ num = 1
 for i in range(1, 6):
     print(" ".join([str(num)] * i))
     num += 2
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

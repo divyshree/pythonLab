@@ -14,3 +14,6 @@ print(f"GCD of {num1} and {num2} is {gcd(num1, num2)}")
 print(f"LCM of {num1} and {num2} is {lcm(num1, num2)}")
 
 
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

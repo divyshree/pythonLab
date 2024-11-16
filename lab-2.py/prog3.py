@@ -5,3 +5,8 @@ def multiplication_table(num, upto=10):
 
 number = int(input("Enter a number to print its multiplication table: "))
 multiplication_table(number)
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

@@ -18,3 +18,8 @@ if is_armstrong(number):
     print(f"{number} is an Armstrong number.")
 else:
     print(f"{number} is not an Armstrong number.")
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

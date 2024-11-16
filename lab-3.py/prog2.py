@@ -7,3 +7,8 @@ reversed_string = user_input[::-1]
 
 # Print the reversed string
 print("Reversed string:", reversed_string)
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

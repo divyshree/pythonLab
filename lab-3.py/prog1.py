@@ -21,3 +21,8 @@ print("String after removal:", modified_string)
 strings_list = ["apple", "orange", "banana", "grape"]
 sorted_strings = sorted(strings_list)
 print("Sorted strings:", sorted_strings)
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

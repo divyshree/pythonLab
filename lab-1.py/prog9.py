@@ -12,3 +12,8 @@ if is_prime(number):
     print(f"{number} is a Prime Number")
 else:
     print(f"{number} is not a Prime Number")
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

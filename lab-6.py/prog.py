@@ -35,3 +35,7 @@ print(f"Sum of Complex Numbers: {sum_complex}")
 print(f"Magnitude of Complex Number 1: {complex1.magnitude()}")
 print(f"Magnitude of Complex Number 2: {complex2.magnitude()}")
 print(f"Magnitude of Sum: {sum_complex.magnitude()}")
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

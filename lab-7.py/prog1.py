@@ -22,3 +22,7 @@ class Student(Person):
 student = Student("John Doe", 20, "S12345")
 student.show_details()
 
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

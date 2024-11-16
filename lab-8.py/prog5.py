@@ -14,3 +14,7 @@ if result != -1:
     print(f"Element found at index {result}")
 else:
     print("Element not found")
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

@@ -17,3 +17,8 @@ if is_perfect(number):
     print(f"{number} is a perfect number.")
 else:
     print(f"{number} is not a perfect number.")
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

@@ -10,3 +10,9 @@ for i in range(1, 5):
     row = [str(num + x) for x in range(i)]
     print(" ".join(row[::-1]))
     num += i
+
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

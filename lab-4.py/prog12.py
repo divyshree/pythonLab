@@ -10,3 +10,9 @@ num = 10
 for i in range(1, 6):
     print(" ".join(str(num - 2 * x) for x in range(i)))
     num -= 2
+
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

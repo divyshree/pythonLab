@@ -8,3 +8,8 @@ num = 1
 for i in range(1, 4):
     print(" ".join(str(num + x) for x in range(i)))
     num += i
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

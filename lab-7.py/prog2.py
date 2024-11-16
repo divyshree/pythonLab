@@ -22,3 +22,7 @@ electric_car.info()        # Vehicle method
 electric_car.car_info()    # Car method
 electric_car.battery_info()  # ElectricCar method
 
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

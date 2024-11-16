@@ -8,3 +8,7 @@ def area_of_circle(radius):
 radius = float(input("Enter the radius of the circle: "))
 area = area_of_circle(radius)
 print(f"The area of the circle is: {area:.2f}")
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

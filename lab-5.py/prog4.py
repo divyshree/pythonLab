@@ -12,3 +12,7 @@ student2 = Student("Bob", 22)
 # Print the name and age of the students
 print(f"Name: {student1.name}, Age: {student1.age}")
 print(f"Name: {student2.name}, Age: {student2.age}")
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

@@ -15,3 +15,8 @@ if is_strong_number(number):
     print(f"{number} is a Strong Number")
 else:
     print(f"{number} is not a Strong Number")
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

@@ -20,3 +20,6 @@ class TutorAuthor(Teacher, Author):
 tutor_author = TutorAuthor()
 tutor_author.description()
 
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

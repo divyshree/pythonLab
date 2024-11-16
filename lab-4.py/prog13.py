@@ -10,3 +10,8 @@ Pattern:
 # Answer to Pattern #13
 for i in range(7):
     print(" ".join(str(i * x) for x in range(i + 1)))
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

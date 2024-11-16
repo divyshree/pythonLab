@@ -15,3 +15,8 @@ for char in user_input:
 
 # Print the number of vowels
 print(f"The number of vowels in the string is: {vowel_count}")
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484

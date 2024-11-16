@@ -8,3 +8,8 @@ Pattern:
 # Answer to Pattern #5
 for i in range(5, 0, -1):
     print(" " * (5 - i) + (str(5) + " ") * i)
+
+
+# Name -> Divyshree Saxena
+# 3rd Sem ,Section K
+# 23FE10CSE00484
